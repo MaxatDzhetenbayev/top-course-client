@@ -6,7 +6,7 @@
 		"simple-import-sort"
 	],
 	"rules": {
-		"semi": "off",
+		"semi": "warn",
 		"@typescript-eslint/semi": [
 			"warn"
 		],
@@ -51,6 +51,14 @@
 					]
 				]
 			}
+		],
+		"quotes": [
+			"warn",
+			"single"
+		],
+		"jsx-quotes": [
+			"warn",
+			"single"
 		]
 	},
 	"extends": [
