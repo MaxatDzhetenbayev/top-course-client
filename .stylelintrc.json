@@ -1,0 +1,15 @@
+{
+	"extends": [
+		"stylelint-order-config-standard",
+		"stylelint-config-standard",
+		"stylelint-config-clean-order"
+	],
+	"plugins": [
+		"stylelint-order"
+	],
+	"rules": {
+		"indentation": "tab",
+		"color-hex-case": "upper",
+		"declaration-empty-line-before": "always"
+	}
+}
