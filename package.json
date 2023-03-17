@@ -24,6 +24,7 @@
 		"@typescript-eslint/eslint-plugin": "^5.55.0",
 		"@typescript-eslint/parser": "^5.55.0",
 		"eslint-plugin-simple-import-sort": "^10.0.0",
+		"node-sass": "^7.0.3",
 		"stylelint": "^15.2.0",
 		"stylelint-config-clean-order": "^5.0.0",
 		"stylelint-config-standard": "^30.0.1",
