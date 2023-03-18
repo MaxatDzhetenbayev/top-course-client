@@ -55,10 +55,6 @@
 		"quotes": [
 			"warn",
 			"single"
-		],
-		"jsx-quotes": [
-			"warn",
-			"single"
 		]
 	},
 	"extends": [
